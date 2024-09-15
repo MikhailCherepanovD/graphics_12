@@ -1,0 +1,20 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{3}{section*.2}%
+\contentsline {section}{\numberline {1}Постановка задачи}{4}{section.1}%
+\contentsline {section}{\numberline {2}Описание программного продукта Blender}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Начало работы с Blender}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1} Основная рабочая область }{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2} Боковая панель свойств }{7}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3} Панель инструментов}{8}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4} Временная шкала}{8}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5} Основное меню}{8}{subsubsection.2.1.5}%
+\contentsline {section}{\numberline {3}Описание объектов моделирования}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Объект № 1}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Объект № 2}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Объект № 3}{10}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Технология моделирования объектов}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Технология создания модели объекта № 1}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Технология создания модели объекта № 2}{17}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Технология создания модели объекта № 3}{30}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Заключение}{40}{section.5}%
+\contentsline {section}{Список использованных источников}{40}{section.5}%
